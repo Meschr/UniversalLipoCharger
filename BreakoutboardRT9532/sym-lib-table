@@ -1,0 +1,12 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "RT9532GQW")(type "Legacy")(uri "${KIPRJMOD}/Symbols/RT9532GQW.lib")(options "")(descr ""))
+  (lib (name "UJ3-AH-4-TH")(type "Legacy")(uri "${KIPRJMOD}/Symbols/UJ3-AH-4-TH.lib")(options "")(descr ""))
+  (lib (name "UJ32-C-H-G-SMT-TR")(type "Legacy")(uri "${KIPRJMOD}/Symbols/UJ32-C-H-G-SMT-TR.lib")(options "")(descr ""))
+  (lib (name "74HCT4066PW_118")(type "Legacy")(uri "${KIPRJMOD}/Symbols/74HCT4066PW_118.lib")(options "")(descr ""))
+  (lib (name "74HC4066BQ_115")(type "Legacy")(uri "${KIPRJMOD}/Symbols/74HC4066BQ_115.lib")(options "")(descr ""))
+  (lib (name "STC4054GR")(type "Legacy")(uri "${KIPRJMOD}/Symbols/STC4054GR.lib")(options "")(descr ""))
+  (lib (name "BQ25100BYFPR")(type "Legacy")(uri "${KIPRJMOD}/Symbols/BQ25100BYFPR.lib")(options "")(descr ""))
+  (lib (name "22-29-2021")(type "Legacy")(uri "${KIPRJMOD}/Symbols/22-29-2021.lib")(options "")(descr ""))
+  (lib (name "BQ25170JDSGR")(type "Legacy")(uri "${KIPRJMOD}/Symbols/BQ25170JDSGR.lib")(options "")(descr ""))
+)

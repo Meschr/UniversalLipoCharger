@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "UJ32-C-H-G-SMT-TR")(type "Legacy")(uri "${KIPRJMOD}/Symbols/UJ32-C-H-G-SMT-TR.lib")(options "")(descr ""))
+  (lib (name "UJ3-AH-4-TH")(type "Legacy")(uri "${KIPRJMOD}/Symbols/UJ3-AH-4-TH.lib")(options "")(descr ""))
+)

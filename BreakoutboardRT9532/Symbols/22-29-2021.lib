@@ -1,0 +1,23 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model 22-29-2021
+#/314494/1043141/2.50/2/3/Connector
+DEF 22-29-2021 J 0 30 Y Y 1 F N
+F0 "J" 650 300 50 H V L CNN
+F1 "22-29-2021" 650 200 50 H V L CNN
+F2 "SHDR2W64P0X254_1X2_508X580X1170P" 650 100 50 H I L CNN
+F3 "https://www.molex.com/pdm_docs/sd/022292021_sd.pdf" 650 0 50 H I L CNN
+F4 "Molex KK 254 6410, 2.54mm Pitch, 2 Way, 1 Row, Straight PCB Header, Through Hole" 650 -100 50 H I L CNN "Description"
+F5 "11.7" 650 -200 50 H I L CNN "Height"
+F6 "538-22-29-2021" 650 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Molex/22-29-2021?qs=5gBG3L055oM6MLYs649kIA%3D%3D" 650 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Molex" 650 -500 50 H I L CNN "Manufacturer_Name"
+F9 "22-29-2021" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X 1 1 0 0 200 R 50 50 0 0 P
+X 2 2 0 -100 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 600 100 600 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library
