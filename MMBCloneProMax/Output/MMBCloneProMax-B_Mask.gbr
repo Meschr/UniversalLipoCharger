@@ -1,12 +1,12 @@
-%TF.GenerationSoftware,KiCad,Pcbnew,8.0.6*%
-%TF.CreationDate,2024-12-23T11:57:32+01:00*%
+%TF.GenerationSoftware,KiCad,Pcbnew,8.0.8-8.0.8-0~ubuntu22.04.1*%
+%TF.CreationDate,2025-02-05T10:07:57+01:00*%
 %TF.ProjectId,MMBCloneProMax,4d4d4243-6c6f-46e6-9550-726f4d61782e,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Soldermask,Bot*%
 %TF.FilePolarity,Negative*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 8.0.6) date 2024-12-23 11:57:32*
+G04 Created by KiCad (PCBNEW 8.0.8-8.0.8-0~ubuntu22.04.1) date 2025-02-05 10:07:57*
 %MOMM*%
 %LPD*%
 G01*
